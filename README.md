@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Vigtu/Vigtu/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Vigtu/Vigtu/blob/output/github-contribution-grid-snake.svg)
 
 ###
