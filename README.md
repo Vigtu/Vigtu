@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá eu sou o Victor, Biólogo e fascinado por programação e tecnologia!a</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/6sc3xg"  />
+<img align="right" height="150" src="https://media.giphy.com/media/Fm1DNMbRV8D2bEmkSF/giphy.gif" />
 
 ###
 
@@ -38,11 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/Vigtu/Vigtu/blob/output/github-contribution-grid-snake.svg)
 
 ###
