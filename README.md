@@ -6,7 +6,7 @@ const VICTOR = {
   pronouns: "He" | "Him",
   code: [HTML5, CSS, Javascript, Python],
   tools: [Figma],
- challenge: "Learn REACT and other frameworks"
+ challenge: "Learn REACT and others frameworks"
 }
 ```
 
