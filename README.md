@@ -8,12 +8,6 @@
   </p>
 </div>
 
-**Bacharel em Biologia** pela Universidade Vila Velha (UVV) e **pós-graduando em Data Science & Machine Learning**. Trago experiência de pesquisa, análise de dados, microbiologia, com habilidade para identificar padrões e gerar insights a partir de grandes volumes de informações. Atualmente, estou desenvolvendo competências em Power BI, Python e R para análises, visualizações e modelos preditivos.
-
-- 👨🎓 Bacharel em Biologia pela Universidade Vila Velha (UVV)
-- 🔭 Cursando pós-graduação em Data Science & Machine Learning
-- 🌱 Desenvolvendo habilidades em Power BI, Python, e R
-- 🎯 Metas para 2024: Aprimorar minhas habilidades em Análise de Dados e obter oportunidades de estágio em Data Science
 
 <!-- https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge
  https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge 
