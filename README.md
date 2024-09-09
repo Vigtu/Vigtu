@@ -37,7 +37,7 @@
 
 ## **GitHub Estatísticas**
 [![Vigtu](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigtu&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media.giphy.com/media/Fm1DNMbRV8D2bEmkSF/giphy.gif" alt="GIF" width="200" height="200" style="margin: 200;">
+
 
 
 
