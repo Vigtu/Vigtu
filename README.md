@@ -14,6 +14,7 @@
 ### 🛠️ Tech Stack
 
 #### AI/ML Technologies
+![Langflow](https://img.shields.io/badge/langflow-000000?style=for-the-badge&logo=langflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
