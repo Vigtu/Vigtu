@@ -38,10 +38,6 @@
 - **AI Integration**: Seamlessly incorporating AI capabilities into existing systems
 - **MLOps**: Managing the complete lifecycle of AI projects
 - **Data Engineering**: Processing and preparing data for AI applications
-
-### 📈 GitHub Stats
-[![Vigtu](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigtu&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 💼 Open to collaborations and discussions about AI engineering and LLM development
