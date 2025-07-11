@@ -2,9 +2,6 @@
 ## AI Engineer | LLM Specialist | AI Agents Developer 🤖
 
 [![Linkedin: victorcorreagomes](https://img.shields.io/badge/-victorcorreagomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorcorreagomes/)
-[![Instagram: vigtu](https://img.shields.io/badge/-@vigtu-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vigtu/)
-[![Email](https://img.shields.io/badge/-victor.cgomes@uvvnet.com.br-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:victor.cgomes@uvvnet.com.br)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-128c7e?&logo=whatsapp)](https://wa.me/5527997482360)
 
 ### 🏆 Achievements
 - 🥇 Winner of the IA DEVS Competition by Langflow
