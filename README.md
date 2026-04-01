@@ -18,9 +18,9 @@
 
 ### About
 
-AI Engineer from Brazil. I build multi-agent systems, contribute to open-source AI tooling, and ship production-grade pipelines. 19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core, 350+ bugs reported during QA — recognized by the DataStax team as a Langflow Expert.
+19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core. 350+ bugs reported during QA. Recognized by the DataStax team as a Langflow Expert.
 
-Won **R$10k** at Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie.
+Won Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie.
 
 ---
 
@@ -103,6 +103,9 @@ bunx docmole serve --project my-docs
 ![LangWatch](https://img.shields.io/badge/LangWatch-6C47FF?style=for-the-badge&logoColor=white)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-D97706?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge&logoColor=white)
 
@@ -119,6 +122,9 @@ bunx docmole serve --project my-docs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![LanceDB](https://img.shields.io/badge/LanceDB-000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000?style=for-the-badge&logo=chroma&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
