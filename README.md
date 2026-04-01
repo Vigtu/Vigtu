@@ -18,7 +18,7 @@
 
 ### About
 
-19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core. 350+ bugs reported during QA. Recognized by the DataStax team as a Langflow Expert.
+19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core. 350+ bugs reported during QA. Recognized by the DataStax team as a Langflow Expert. Built a [g1 component using Groq](https://www.linkedin.com/feed/update/urn:li:activity:7242264525335359488/) that was featured by the Langflow team and recognized by Groq.
 
 Won Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie.
 
