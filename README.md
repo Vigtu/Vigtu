@@ -11,15 +11,29 @@
 
 **I write the agents. They do the rest.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcorreagomes)
+[![Email](https://img.shields.io/badge/victor@victorcorrea.ai-D97706?style=flat-square&logo=gmail&logoColor=white)](mailto:victor@victorcorrea.ai)
+[![Visitors](https://komarev.com/ghpvc/?username=Vigtu&color=D97706&style=flat-square&label=profile+views)](https://github.com/Vigtu)
+
 </div>
 
 ---
+
+### About
+
+AI Engineer from Brazil. I build multi-agent systems, contribute to open-source AI tooling, and ship production-grade pipelines. 19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core, 350+ bugs reported during QA — recognized by the DataStax team as a Langflow Expert.
+
+Won **R$10k** at Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie.
+
+---
+
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Arise Agents](https://github.com/Vigtu/arise-agents)
+#### [Arise Agents](https://github.com/Vigtu/arise-agents)
 
 Claude Code plugin for multi-agent orchestration.
 Inspired by Solo Leveling.
@@ -27,7 +41,7 @@ Inspired by Solo Leveling.
 You say `ARISE`, shadows do the work —
 Igris reviews, Beru explores, Tusk refactors.
 Each agent has a role, tools, and a model.
-XP system tracks your progress across commits and PRs.
+XP system tracks progress across commits and PRs.
 
 ```
 ARISE review my auth code
@@ -42,7 +56,7 @@ ARISE review my auth code
 </td>
 <td width="50%" valign="top">
 
-### [DocMole](https://github.com/Vigtu/docmole)
+#### [DocMole](https://github.com/Vigtu/docmole)
 
 MCP server that digs through any documentation site.
 Point it at a URL, it indexes everything, you ask questions.
@@ -52,7 +66,9 @@ Zero-setup mode for Mintlify-powered docs.
 Works with Claude, Cursor, any MCP client.
 
 ```bash
-bunx docmole setup --url https://docs.example.com --id my-docs
+bunx docmole setup \
+  --url https://docs.example.com \
+  --id my-docs
 bunx docmole serve --project my-docs
 # done. ask anything.
 ```
@@ -66,11 +82,39 @@ bunx docmole serve --project my-docs
 
 ---
 
-<div align="center">
+### Professional Work
 
-**[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie. Won R$10k at Brazil's largest AI competition.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+**Langflow Core Contributor**
+19 PRs merged to [langflow-ai/langflow](https://github.com/langflow-ai/langflow). 350+ bugs reported during QA. Built automation tooling, API testers, and issue trackers around the ecosystem.
+
+![Langflow](https://img.shields.io/badge/Langflow-000?style=flat-square&logo=langflow&logoColor=white)
+![DataStax](https://img.shields.io/badge/DataStax-3A3A42?style=flat-square&logo=datastax&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**Legal Intelligence Platform**
+AI-powered legal document analysis and intelligence system. Built with Langflow, multi-agent pipelines, and RAG for automated legal research and insights.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**Multi-Agent Enterprise Systems**
+Production-ready platforms with intelligent routing, enterprise deployment, and multi-agent orchestration. Contributor to [Agno](https://github.com/agno-agi/agno) and [Automagik](https://github.com/Vigtu/automagik-hive) ecosystems.
+
+![Agno](https://img.shields.io/badge/Agno-000?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,24 +122,79 @@ bunx docmole serve --project my-docs
 
 <div align="center">
 
+#### Languages
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### AI & Agents
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)
-![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![LangFlow](https://img.shields.io/badge/Langflow-000?style=for-the-badge&logo=langflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangWatch](https://img.shields.io/badge/LangWatch-6C47FF?style=for-the-badge&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-000?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-D97706?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge&logoColor=white)
+
+#### Frameworks & Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### Data & Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-000?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### Automation & Scraping
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-D97706?style=for-the-badge&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+#### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vigtu&show_icons=true&theme=dark&bg_color=000&title_color=D97706&icon_color=D97706&text_color=fff&border_color=333&hide_border=false&count_private=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigtu&layout=compact&theme=dark&bg_color=000&title_color=D97706&text_color=fff&border_color=333&hide_border=false&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vigtu&theme=dark&background=000&ring=D97706&fire=D97706&currStreakLabel=D97706&border=333" />
 
 </div>
 
@@ -103,18 +202,8 @@ bunx docmole serve --project my-docs
 
 <div align="center">
 
-Langflow Expert — recognized by the community and DataStax team. 350+ bugs reported during QA.
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcorreagomes)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vigtu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcorreagomes)
 [![Email](https://img.shields.io/badge/victor@victorcorrea.ai-000?style=for-the-badge&logo=gmail&logoColor=D97706)](mailto:victor@victorcorrea.ai)
-
-![Visitors](https://komarev.com/ghpvc/?username=Vigtu&color=D97706&style=for-the-badge&label=visitors)
 
 </div>
