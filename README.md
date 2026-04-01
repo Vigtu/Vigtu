@@ -99,6 +99,7 @@ bunx docmole serve --project my-docs
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![LangFlow](https://img.shields.io/badge/Langflow-000?style=for-the-badge&logo=langflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangWatch](https://img.shields.io/badge/LangWatch-6C47FF?style=for-the-badge&logoColor=white)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000?style=for-the-badge&logoColor=white)
