@@ -82,42 +82,6 @@ bunx docmole serve --project my-docs
 
 ---
 
-### Professional Work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Langflow Core Contributor**
-19 PRs merged to [langflow-ai/langflow](https://github.com/langflow-ai/langflow). 350+ bugs reported during QA. Built automation tooling, API testers, and issue trackers around the ecosystem.
-
-![Langflow](https://img.shields.io/badge/Langflow-000?style=flat-square&logo=langflow&logoColor=white)
-![DataStax](https://img.shields.io/badge/DataStax-3A3A42?style=flat-square&logo=datastax&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-**Legal Intelligence Platform**
-AI-powered legal document analysis and intelligence system. Built with Langflow, multi-agent pipelines, and RAG for automated legal research and insights.
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
-
-**Multi-Agent Enterprise Systems**
-Production-ready platforms with intelligent routing, enterprise deployment, and multi-agent orchestration. Contributor to [Agno](https://github.com/agno-agi/agno) and [Automagik](https://github.com/Vigtu/automagik-hive) ecosystems.
-
-![Agno](https://img.shields.io/badge/Agno-000?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 ### Stack
 
 <div align="center">
@@ -129,9 +93,6 @@ Production-ready platforms with intelligent routing, enterprise deployment, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### AI & Agents
 
@@ -179,22 +140,6 @@ Production-ready platforms with intelligent routing, enterprise deployment, and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vigtu&show_icons=true&theme=dark&bg_color=000&title_color=D97706&icon_color=D97706&text_color=fff&border_color=333&hide_border=false&count_private=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigtu&layout=compact&theme=dark&bg_color=000&title_color=D97706&text_color=fff&border_color=333&hide_border=false&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vigtu&theme=dark&background=000&ring=D97706&fire=D97706&currStreakLabel=D97706&border=333" />
 
 </div>
 
