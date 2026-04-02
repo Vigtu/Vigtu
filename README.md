@@ -18,11 +18,11 @@
 
 ### About
 
-Instructor at [Alura](https://github.com/alura) — taught **Langflow: criação e orquestração de fluxos e agentes de IA**.
+Taught **Langflow: criação e orquestração de fluxos e agentes de IA** at [Alura](https://github.com/alura).
 
 19 PRs merged into [Langflow](https://github.com/langflow-ai/langflow) core. 350+ bugs reported during QA. Recognized by the DataStax team as a Langflow Expert. Built a [g1 component using Groq](https://www.linkedin.com/feed/update/urn:li:activity:7242264525335359488/) that was featured by the Langflow team and recognized by Groq.
 
-Won Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)** — fashion recommendations from a selfie.
+Won Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/inteligencia-artificial/styleflow-looks-ia-vence-langflow/)**. Fashion recommendations from a selfie.
 
 ---
 
@@ -37,7 +37,7 @@ Won Brazil's largest AI competition with **[StyleFlow](https://itforum.com.br/in
 Claude Code plugin for multi-agent orchestration.
 Inspired by Solo Leveling.
 
-You say `ARISE`, shadows do the work —
+You say `ARISE`, shadows do the work.
 Igris reviews, Beru explores, Tusk refactors.
 Each agent has a role, tools, and a model.
 XP system tracks progress across commits and PRs.
