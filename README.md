@@ -1,14 +1,3 @@
-<div align="center">
-
-```
- ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
- ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
- ██║   ██║██║██║        ██║   ██║   ██║██████╔╝
- ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
-  ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
-   ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcorreagomes)
 [![Email](https://img.shields.io/badge/victor@victorcorrea.ai-D97706?style=flat-square&logo=gmail&logoColor=white)](mailto:victor@victorcorrea.ai)
 
